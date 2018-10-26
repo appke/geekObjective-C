@@ -42,6 +42,16 @@ textView.placeholder = @"这是一段占位文字………这是一段占位文�
 ```
 ![](screenshot/06-MGPlaceholderTextView.gif)
 
+
+
+## 07-流水线性布局
+
+- 简书[collectionView流水线性布局(自定义)](https://www.jianshu.com/p/399079b79ddb)
+
+![](screenshot/07-LineLayout.png)
+
+
+
 ## X-Waterflow
 
 瀑布流框架，不常用
